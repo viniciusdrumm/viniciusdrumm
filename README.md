@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vinícius and I'm a Data Analyst from Florianópolis, Brazil.</p>
+<p align="left">My name is Vinícius and I'm a Front-end developer from Florianópolis, Brazil.</p>
 
 ###
 
