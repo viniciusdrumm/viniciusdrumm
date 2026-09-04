@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vinícius and I'm a Front-end developer from Florianópolis, Brazil.</p>
+<p align="left">My name is Vinícius and I'm a Software Engineer from Florianópolis, Brasil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Data Science.<br>🎯 Goals: travel the world and speak English.<br>🎲  And ... i play 🎸 guitar and ♟ chess online</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning software engineering.<br>🎯 Goals: travel the world and speak English.<br>🎲  And ... i play 🎸 guitar and ♟ chess online</p>
 
 ###
 
