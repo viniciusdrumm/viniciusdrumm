@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning software engineering.<br>🎯 Goals: travel the world and speak English.<br>🎲  And ... i play 🎸 guitar and ♟ chess online</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning software engineering.<br>🎯 Goals: travel the world and speak English.<br>🎲  And ... I play 🎸 guitar and ♟ chess online</p>
 
 ###
 
